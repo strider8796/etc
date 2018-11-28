@@ -5,7 +5,7 @@
 - mod-wsgi-configuration
 https://modwsgi.readthedocs.io/en/develop/user-guides/quick-configuration-guide.html
 
-###Study Spring
+### Study Spring
 - Spring API Gateway Server
 - Rest Client
 - RestController // Exception Definition
@@ -15,3 +15,6 @@ https://modwsgi.readthedocs.io/en/develop/user-guides/quick-configuration-guide.
 ### Database
 - JPA? Hibernate? ORM? 참고 http://www.libqa.com/wiki/769
 - 
+
+### Docker
+- build with docker-compose http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/
