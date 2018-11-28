@@ -11,3 +11,7 @@ https://modwsgi.readthedocs.io/en/develop/user-guides/quick-configuration-guide.
 - RestController // Exception Definition
 - Logger
 - Reactive Spring
+
+### Database
+- JPA? Hibernate? ORM? 참고 http://www.libqa.com/wiki/769
+- 
