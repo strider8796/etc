@@ -1,9 +1,7 @@
 # etc
 ### Study Python
-- wsgi-simple
- https://www.fullstackpython.com/wsgi-servers.html
-- mod-wsgi-configuration
-https://modwsgi.readthedocs.io/en/develop/user-guides/quick-configuration-guide.html
+- [wsgi-simple](https://www.fullstackpython.com/wsgi-servers.html)
+- [mod-wsgi-configuration](https://modwsgi.readthedocs.io/en/develop/user-guides/quick-configuration-guide.html)
 
 ### Study Spring
 - Spring API Gateway Server
@@ -13,11 +11,11 @@ https://modwsgi.readthedocs.io/en/develop/user-guides/quick-configuration-guide.
 - Reactive Spring
 
 ### Database
-- JPA? Hibernate? ORM? 참고 http://www.libqa.com/wiki/769
+- [JPA? Hibernate? ORM?](http://www.libqa.com/wiki/769)
 - Hadoop? 
 
 ### Docker
-- build with docker-compose http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/
+- [build with docker-compose](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/)
 
 ### centos security
 - firewalld? iptables?
