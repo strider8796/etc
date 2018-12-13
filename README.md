@@ -27,4 +27,4 @@
 
 ### references
 - [EAI(Enterprise Application Integration)](https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html)
--[ISTIO](https://istio.io/)
+- [ISTIO](https://istio.io/)
