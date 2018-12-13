@@ -24,3 +24,7 @@
 ### undefined...
 - Elasticsearch : search? database?
 - Grafana : Dashboard 
+
+### references
+- [EAI(Enterprise Application Integration)](https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html)
+-[ISTIO](https://istio.io/)
