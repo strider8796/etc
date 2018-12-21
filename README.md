@@ -12,7 +12,6 @@
 
 ### Database
 - [JPA? Hibernate? ORM?](http://www.libqa.com/wiki/769)
-- Hadoop?
 
 ### Docker
 - [build with docker-compose](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/)
@@ -20,6 +19,9 @@
 ### centos security
 - firewalld? iptables?
 - selinux
+
+### hadoop
+- [hadoop installation tutorials](https://www.linode.com/docs/databases/hadoop/how-to-install-and-set-up-hadoop-cluster/)
 
 ### undefined...
 - Elasticsearch : search? database?
